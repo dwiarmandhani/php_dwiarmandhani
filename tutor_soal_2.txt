@@ -1,3 +1,0 @@
-1. jalankan menggunakan servr xampp/apache
-2. jalankan syntax berikut "php -S localhost:8000"
-3. untuk menjalankan buka browser, http://localhost:8000/soal2a.php
